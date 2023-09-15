@@ -1,3 +1,6 @@
+# 2)Write a program that accepts a list from user and print the alternate element
+# of list.
+
 mylist=[]
 size=int(input(f"enter the how size of list "))
 for i in range (size):

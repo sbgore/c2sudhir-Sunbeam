@@ -1,3 +1,5 @@
+# 5)Define a function overlapping() that takes two lists and returns True if they
+# have at least one member in common, False otherwise.
 def overlapping(lists1, lists2):
     for item1 in lists1:
         for item2 in lists2:
